@@ -1,0 +1,9 @@
+/*
+Things I've learned in previous es 6:
+1. Diference between var, let, const
+2. Different types of functions
+3. Arrow functions
+4. Template strings
+5. spread
+6. Destructuring
+*/
